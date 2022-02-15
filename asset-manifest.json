@@ -7,7 +7,7 @@
     "main.20b8d87e.js.map": "/static/js/main.20b8d87e.js.map"
   },
   "entrypoints": [
-    "static/css/main.56e6221f.css",
-    "static/js/main.20b8d87e.js"
+    "/static/css/main.56e6221f.css",
+    "/static/js/main.20b8d87e.js"
   ]
 }
