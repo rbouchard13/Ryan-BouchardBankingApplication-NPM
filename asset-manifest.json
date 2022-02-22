@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ryan-BouchardBankingApplication-NPM/static/css/main.e6c13ad2.css",
+    "main.js": "/Ryan-BouchardBankingApplication-NPM/static/js/main.b6cf0737.js",
+    "index.html": "/Ryan-BouchardBankingApplication-NPM/index.html",
+    "main.e6c13ad2.css.map": "/Ryan-BouchardBankingApplication-NPM/static/css/main.e6c13ad2.css.map",
+    "main.b6cf0737.js.map": "/Ryan-BouchardBankingApplication-NPM/static/js/main.b6cf0737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b6cf0737.js"
+  ]
+}
